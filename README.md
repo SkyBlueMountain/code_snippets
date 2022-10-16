@@ -1,6 +1,8 @@
 # code_snippets
 
 ```
+# hi hi
+## hello hello
 fig = px.histogram(data,  x = "coupon", color='Y', text_auto = True)
 fig
 ```
